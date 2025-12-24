@@ -1,0 +1,4 @@
+1. Open gitbash on backend folder after menghidupkan xampp
+	code on gitbash (node server.js)
+2. Open gitbash on frontend folder
+	code on gitbash (npm start)
